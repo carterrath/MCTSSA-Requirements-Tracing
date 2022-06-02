@@ -1,0 +1,9 @@
+Run Python interpreter -> download missing nltk modules
+> python3
+>>> import nltk
+>>> nltk.download()
+
+To install necessary libraries needed:
+> pip install -r requirements.txt
+
+Must install Microsoft Visual C++ 14.0 or greater
