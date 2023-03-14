@@ -1,5 +1,5 @@
 # MCTSSA-Requirements-Tracing
-Project from my Fab Friday club created with 3 other students. Designed a GUI-based application for test engineers to search for related/shared requirements in the Command, Control, Communication, Computers, and Intelligence (C4I) systems. I focused mainly on the front-end, learning QT for Python to develop a GUI that allows the user to enter a query and display the requirements similar to the query with the ability to save the results. The k-means algorithm is implemented to extract the clusters similar to the requirement.
+Project from my Fab Friday club created with 3 other students: Francisco Diaz, Sergio Acosta, and Juan Gonzalez. Designed a GUI-based application for test engineers to search for related/shared requirements in the Command, Control, Communication, Computers, and Intelligence (C4I) systems. I focused mainly on the front-end, learning QT for Python to develop a GUI that allows the user to enter a query and display the requirements similar to the query with the ability to save the results. The k-means algorithm is implemented to extract the clusters similar to the requirement.
 
 # Test Automation for Requirements
 
